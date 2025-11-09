@@ -1,0 +1,7 @@
+E:\.net Project\Week2Assignment\Task-2\Task-2\bin\Debug\Task-2.exe.config
+E:\.net Project\Week2Assignment\Task-2\Task-2\bin\Debug\Task-2.exe
+E:\.net Project\Week2Assignment\Task-2\Task-2\bin\Debug\Task-2.pdb
+E:\.net Project\Week2Assignment\Task-2\Task-2\obj\Debug\Task-2.csproj.AssemblyReference.cache
+E:\.net Project\Week2Assignment\Task-2\Task-2\obj\Debug\Task-2.csproj.CoreCompileInputs.cache
+E:\.net Project\Week2Assignment\Task-2\Task-2\obj\Debug\Task-2.exe
+E:\.net Project\Week2Assignment\Task-2\Task-2\obj\Debug\Task-2.pdb
